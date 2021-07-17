@@ -29,8 +29,9 @@ $ sudo pamac build wifi-password
 
 ## Usage
 ```console
-cmd设置语言格式
-chcp 650001
+通过cmd设置Windows系统语言格式
+$ chcp 650001
+
 $ wifi-password --help
 usage: wifi_password [options]
 
