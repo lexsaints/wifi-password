@@ -29,6 +29,8 @@ $ sudo pamac build wifi-password
 
 ## Usage
 ```console
+cmd设置语言格式
+chcp 650001
 $ wifi-password --help
 usage: wifi_password [options]
 
